@@ -1,2 +1,2 @@
-# GitEyeTester
-For testing GitEye
+# GitGUI Tester
+For testing Git GUIs
